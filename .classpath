@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/jetty/lib/servlet-api-3.1.jar" sourcepath="C:/Users/Hang Zhao/Documents/COMP576-16B (HAM)/javax.servlet-api-3.1.0-sources.jar.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/workspace/Jetty%20v8.1/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Hang Zhao/Documents/COMP576-16B (HAM)/mongo-java-driver-3.3.0.jar" sourcepath="C:/Users/Hang Zhao/Documents/COMP576-16B (HAM)/mongo-java-driver-3.3.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/Hang%20Zhao/Documents/COMP576-16B%20(HAM)/mongo-java-driver-3.3.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Hang Zhao/Documents/COMP576-16B (HAM)/mongodb-driver-core-3.3.0.jar" sourcepath="C:/Users/Hang Zhao/Documents/COMP576-16B (HAM)/mongo-java-driver-3.3.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/Hang%20Zhao/Documents/COMP576-16B%20(HAM)/mongo-java-driver-3.3.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
